@@ -1,0 +1,15 @@
+http://members.000webhost.com	
+
+dictionary.webatu.com
+
+$mysql_host = "mysql12.000webhost.com";
+$mysql_database = "a6861895_dic";
+$mysql_user = "a6861895_seddik";
+$mysql_password = "7mai91";
+
+
+<?php
+$connexion=mysql_connect( "mysql12.000webhost.com" ,  "a6861895_seddik"  ,  "7mai91" );
+
+mysql_select_db("a6861895_dic");
+?>
